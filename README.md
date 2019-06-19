@@ -1,4 +1,19 @@
-# Angularpic
+# Features
++ Authentication Guard;
++ Uso de Interceptors customizados;
++ Componentização compartilhada;
++ Gerenciamento de token JWT;
++ GlobalErrorHandler customizado para padronização de erros e exemplo de utilização de API backend apartada;
++ Registro e login de usuários;
++ Integração e comunicação com backend simples de exemplo, em NodeJS;
++ Rotas modulares;
++ Utilização de Validators customizados;
++ Criação de diretivas customizadas;
++ Barra de progresso e menu lateral customizados;
++ Aplicação de variáveis de ambiente;
++ Interfaces de modelo do backend para utilização em componentes de serviços;
+
+# Angularpic - Social Pictures Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
